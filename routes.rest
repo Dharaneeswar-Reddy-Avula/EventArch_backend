@@ -1,0 +1,9 @@
+GET http://localhost:5000/api/events/67d43081547a1b12429ab327/register
+# Content-Type: application/json
+
+# {
+#   "name": "Tech Conference 2025",
+#   "venue": "Hyderabad Convention Center",
+#   "time": "2025-04-15T10:00:00.000Z",
+#   "image": "https://example.com/event-image.jpg"
+# }
